@@ -1,0 +1,186 @@
+{
+  "version": "1.0.13",
+  "download_urls": [
+    {
+      "name": "Endfield Windows Client - Part 001",
+      "url": "https://beyond.hg-cdn.com/YDUTE5gscDZ229CW/1.0/update/6/6/Windows/1.0.13_i5QZm30fLgOWSldR/packs/Beyond_Release_v1d0-Rel-os-5157154-10_prod_obt_official.zip.001",
+      "size_bytes": 1073741824
+    },
+    {
+      "name": "Endfield Windows Client - Part 002",
+      "url": "https://beyond.hg-cdn.com/YDUTE5gscDZ229CW/1.0/update/6/6/Windows/1.0.13_i5QZm30fLgOWSldR/packs/Beyond_Release_v1d0-Rel-os-5157154-10_prod_obt_official.zip.002",
+      "size_bytes": 1073741824
+    },
+    {
+      "name": "Endfield Windows Client - Part 003",
+      "url": "https://beyond.hg-cdn.com/YDUTE5gscDZ229CW/1.0/update/6/6/Windows/1.0.13_i5QZm30fLgOWSldR/packs/Beyond_Release_v1d0-Rel-os-5157154-10_prod_obt_official.zip.003",
+      "size_bytes": 1073741824
+    },
+    {
+      "name": "Endfield Windows Client - Part 004",
+      "url": "https://beyond.hg-cdn.com/YDUTE5gscDZ229CW/1.0/update/6/6/Windows/1.0.13_i5QZm30fLgOWSldR/packs/Beyond_Release_v1d0-Rel-os-5157154-10_prod_obt_official.zip.004",
+      "size_bytes": 1073741824
+    },
+    {
+      "name": "Endfield Windows Client - Part 005",
+      "url": "https://beyond.hg-cdn.com/YDUTE5gscDZ229CW/1.0/update/6/6/Windows/1.0.13_i5QZm30fLgOWSldR/packs/Beyond_Release_v1d0-Rel-os-5157154-10_prod_obt_official.zip.005",
+      "size_bytes": 1073741824
+    },
+    {
+      "name": "Endfield Windows Client - Part 006",
+      "url": "https://beyond.hg-cdn.com/YDUTE5gscDZ229CW/1.0/update/6/6/Windows/1.0.13_i5QZm30fLgOWSldR/packs/Beyond_Release_v1d0-Rel-os-5157154-10_prod_obt_official.zip.006",
+      "size_bytes": 1073741824
+    },
+    {
+      "name": "Endfield Windows Client - Part 007",
+      "url": "https://beyond.hg-cdn.com/YDUTE5gscDZ229CW/1.0/update/6/6/Windows/1.0.13_i5QZm30fLgOWSldR/packs/Beyond_Release_v1d0-Rel-os-5157154-10_prod_obt_official.zip.007",
+      "size_bytes": 1073741824
+    },
+    {
+      "name": "Endfield Windows Client - Part 008",
+      "url": "https://beyond.hg-cdn.com/YDUTE5gscDZ229CW/1.0/update/6/6/Windows/1.0.13_i5QZm30fLgOWSldR/packs/Beyond_Release_v1d0-Rel-os-5157154-10_prod_obt_official.zip.008",
+      "size_bytes": 1073741824
+    },
+    {
+      "name": "Endfield Windows Client - Part 009",
+      "url": "https://beyond.hg-cdn.com/YDUTE5gscDZ229CW/1.0/update/6/6/Windows/1.0.13_i5QZm30fLgOWSldR/packs/Beyond_Release_v1d0-Rel-os-5157154-10_prod_obt_official.zip.009",
+      "size_bytes": 1073741824
+    },
+    {
+      "name": "Endfield Windows Client - Part 010",
+      "url": "https://beyond.hg-cdn.com/YDUTE5gscDZ229CW/1.0/update/6/6/Windows/1.0.13_i5QZm30fLgOWSldR/packs/Beyond_Release_v1d0-Rel-os-5157154-10_prod_obt_official.zip.010",
+      "size_bytes": 1073741824
+    },
+    {
+      "name": "Endfield Windows Client - Part 011",
+      "url": "https://beyond.hg-cdn.com/YDUTE5gscDZ229CW/1.0/update/6/6/Windows/1.0.13_i5QZm30fLgOWSldR/packs/Beyond_Release_v1d0-Rel-os-5157154-10_prod_obt_official.zip.011",
+      "size_bytes": 1073741824
+    },
+    {
+      "name": "Endfield Windows Client - Part 012",
+      "url": "https://beyond.hg-cdn.com/YDUTE5gscDZ229CW/1.0/update/6/6/Windows/1.0.13_i5QZm30fLgOWSldR/packs/Beyond_Release_v1d0-Rel-os-5157154-10_prod_obt_official.zip.012",
+      "size_bytes": 1073741824
+    },
+    {
+      "name": "Endfield Windows Client - Part 013",
+      "url": "https://beyond.hg-cdn.com/YDUTE5gscDZ229CW/1.0/update/6/6/Windows/1.0.13_i5QZm30fLgOWSldR/packs/Beyond_Release_v1d0-Rel-os-5157154-10_prod_obt_official.zip.013",
+      "size_bytes": 1073741824
+    },
+    {
+      "name": "Endfield Windows Client - Part 014",
+      "url": "https://beyond.hg-cdn.com/YDUTE5gscDZ229CW/1.0/update/6/6/Windows/1.0.13_i5QZm30fLgOWSldR/packs/Beyond_Release_v1d0-Rel-os-5157154-10_prod_obt_official.zip.014",
+      "size_bytes": 1073741824
+    },
+    {
+      "name": "Endfield Windows Client - Part 015",
+      "url": "https://beyond.hg-cdn.com/YDUTE5gscDZ229CW/1.0/update/6/6/Windows/1.0.13_i5QZm30fLgOWSldR/packs/Beyond_Release_v1d0-Rel-os-5157154-10_prod_obt_official.zip.015",
+      "size_bytes": 1073741824
+    },
+    {
+      "name": "Endfield Windows Client - Part 016",
+      "url": "https://beyond.hg-cdn.com/YDUTE5gscDZ229CW/1.0/update/6/6/Windows/1.0.13_i5QZm30fLgOWSldR/packs/Beyond_Release_v1d0-Rel-os-5157154-10_prod_obt_official.zip.016",
+      "size_bytes": 1073741824
+    },
+    {
+      "name": "Endfield Windows Client - Part 017",
+      "url": "https://beyond.hg-cdn.com/YDUTE5gscDZ229CW/1.0/update/6/6/Windows/1.0.13_i5QZm30fLgOWSldR/packs/Beyond_Release_v1d0-Rel-os-5157154-10_prod_obt_official.zip.017",
+      "size_bytes": 1073741824
+    },
+    {
+      "name": "Endfield Windows Client - Part 018",
+      "url": "https://beyond.hg-cdn.com/YDUTE5gscDZ229CW/1.0/update/6/6/Windows/1.0.13_i5QZm30fLgOWSldR/packs/Beyond_Release_v1d0-Rel-os-5157154-10_prod_obt_official.zip.018",
+      "size_bytes": 1073741824
+    },
+    {
+      "name": "Endfield Windows Client - Part 019",
+      "url": "https://beyond.hg-cdn.com/YDUTE5gscDZ229CW/1.0/update/6/6/Windows/1.0.13_i5QZm30fLgOWSldR/packs/Beyond_Release_v1d0-Rel-os-5157154-10_prod_obt_official.zip.019",
+      "size_bytes": 1073741824
+    },
+    {
+      "name": "Endfield Windows Client - Part 020",
+      "url": "https://beyond.hg-cdn.com/YDUTE5gscDZ229CW/1.0/update/6/6/Windows/1.0.13_i5QZm30fLgOWSldR/packs/Beyond_Release_v1d0-Rel-os-5157154-10_prod_obt_official.zip.020",
+      "size_bytes": 1073741824
+    },
+    {
+      "name": "Endfield Windows Client - Part 021",
+      "url": "https://beyond.hg-cdn.com/YDUTE5gscDZ229CW/1.0/update/6/6/Windows/1.0.13_i5QZm30fLgOWSldR/packs/Beyond_Release_v1d0-Rel-os-5157154-10_prod_obt_official.zip.021",
+      "size_bytes": 1073741824
+    },
+    {
+      "name": "Endfield Windows Client - Part 022",
+      "url": "https://beyond.hg-cdn.com/YDUTE5gscDZ229CW/1.0/update/6/6/Windows/1.0.13_i5QZm30fLgOWSldR/packs/Beyond_Release_v1d0-Rel-os-5157154-10_prod_obt_official.zip.022",
+      "size_bytes": 1073741824
+    },
+    {
+      "name": "Endfield Windows Client - Part 023",
+      "url": "https://beyond.hg-cdn.com/YDUTE5gscDZ229CW/1.0/update/6/6/Windows/1.0.13_i5QZm30fLgOWSldR/packs/Beyond_Release_v1d0-Rel-os-5157154-10_prod_obt_official.zip.023",
+      "size_bytes": 1073741824
+    },
+    {
+      "name": "Endfield Windows Client - Part 024",
+      "url": "https://beyond.hg-cdn.com/YDUTE5gscDZ229CW/1.0/update/6/6/Windows/1.0.13_i5QZm30fLgOWSldR/packs/Beyond_Release_v1d0-Rel-os-5157154-10_prod_obt_official.zip.024",
+      "size_bytes": 1073741824
+    },
+    {
+      "name": "Endfield Windows Client - Part 025",
+      "url": "https://beyond.hg-cdn.com/YDUTE5gscDZ229CW/1.0/update/6/6/Windows/1.0.13_i5QZm30fLgOWSldR/packs/Beyond_Release_v1d0-Rel-os-5157154-10_prod_obt_official.zip.025",
+      "size_bytes": 1073741824
+    },
+    {
+      "name": "Endfield Windows Client - Part 026",
+      "url": "https://beyond.hg-cdn.com/YDUTE5gscDZ229CW/1.0/update/6/6/Windows/1.0.13_i5QZm30fLgOWSldR/packs/Beyond_Release_v1d0-Rel-os-5157154-10_prod_obt_official.zip.026",
+      "size_bytes": 1073741824
+    },
+    {
+      "name": "Endfield Windows Client - Part 027",
+      "url": "https://beyond.hg-cdn.com/YDUTE5gscDZ229CW/1.0/update/6/6/Windows/1.0.13_i5QZm30fLgOWSldR/packs/Beyond_Release_v1d0-Rel-os-5157154-10_prod_obt_official.zip.027",
+      "size_bytes": 1073741824
+    },
+    {
+      "name": "Endfield Windows Client - Part 028",
+      "url": "https://beyond.hg-cdn.com/YDUTE5gscDZ229CW/1.0/update/6/6/Windows/1.0.13_i5QZm30fLgOWSldR/packs/Beyond_Release_v1d0-Rel-os-5157154-10_prod_obt_official.zip.028",
+      "size_bytes": 1073741824
+    },
+    {
+      "name": "Endfield Windows Client - Part 029",
+      "url": "https://beyond.hg-cdn.com/YDUTE5gscDZ229CW/1.0/update/6/6/Windows/1.0.13_i5QZm30fLgOWSldR/packs/Beyond_Release_v1d0-Rel-os-5157154-10_prod_obt_official.zip.029",
+      "size_bytes": 1073741824
+    },
+    {
+      "name": "Endfield Windows Client - Part 030",
+      "url": "https://beyond.hg-cdn.com/YDUTE5gscDZ229CW/1.0/update/6/6/Windows/1.0.13_i5QZm30fLgOWSldR/packs/Beyond_Release_v1d0-Rel-os-5157154-10_prod_obt_official.zip.030",
+      "size_bytes": 1073741824
+    },
+    {
+      "name": "Endfield Windows Client - Part 031",
+      "url": "https://beyond.hg-cdn.com/YDUTE5gscDZ229CW/1.0/update/6/6/Windows/1.0.13_i5QZm30fLgOWSldR/packs/Beyond_Release_v1d0-Rel-os-5157154-10_prod_obt_official.zip.031",
+      "size_bytes": 1073741824
+    },
+    {
+      "name": "Endfield Windows Client - Part 032",
+      "url": "https://beyond.hg-cdn.com/YDUTE5gscDZ229CW/1.0/update/6/6/Windows/1.0.13_i5QZm30fLgOWSldR/packs/Beyond_Release_v1d0-Rel-os-5157154-10_prod_obt_official.zip.032",
+      "size_bytes": 1073741824
+    },
+    {
+      "name": "Endfield Windows Client - Part 033",
+      "url": "https://beyond.hg-cdn.com/YDUTE5gscDZ229CW/1.0/update/6/6/Windows/1.0.13_i5QZm30fLgOWSldR/packs/Beyond_Release_v1d0-Rel-os-5157154-10_prod_obt_official.zip.033",
+      "size_bytes": 1073741824
+    },
+    {
+      "name": "Endfield Windows Client - Part 034",
+      "url": "https://beyond.hg-cdn.com/YDUTE5gscDZ229CW/1.0/update/6/6/Windows/1.0.13_i5QZm30fLgOWSldR/packs/Beyond_Release_v1d0-Rel-os-5157154-10_prod_obt_official.zip.034",
+      "size_bytes": 1073741824
+    },
+    {
+      "name": "Endfield Windows Client - Part 035",
+      "url": "https://beyond.hg-cdn.com/YDUTE5gscDZ229CW/1.0/update/6/6/Windows/1.0.13_i5QZm30fLgOWSldR/packs/Beyond_Release_v1d0-Rel-os-5157154-10_prod_obt_official.zip.035",
+      "size_bytes": 1073741824
+    },
+    {
+      "name": "Endfield Windows Client - Part 036",
+      "url": "https://beyond.hg-cdn.com/YDUTE5gscDZ229CW/1.0/update/6/6/Windows/1.0.13_i5QZm30fLgOWSldR/packs/Beyond_Release_v1d0-Rel-os-5157154-10_prod_obt_official.zip.036",
+      "size_bytes": 498841721
+    }
+  ],
+  "changelog": "Arknights: Endfield v1.0.13 Official Release"
+}
